@@ -86,7 +86,7 @@ In some cases, when the outcome of a game was decided by penalty kicks, the home
 ```
 Win conditions": "France win on penalties (3 - 4)",
 ````
-
+x
 ## Resources
 
 📚 [Examples of .map, .reduce, and .filter](https://itnext.io/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
